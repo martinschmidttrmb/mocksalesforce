@@ -1,14 +1,14 @@
-# 🎨 Salesforce Design Mockup Tool
+# 🎯 Salesforce Layout Editor
 
-A visual design tool for creating Salesforce page mockups. Perfect for prototyping layouts and sharing with teams!
+Direct field manipulation for Salesforce page mockups. No sidebar needed - everything is inline!
 
 ## ✨ Features
 
-- 📂 **Section Management** - Show/hide and reorder sections
-- 🏷️ **Field Editing** - Modify labels, values, and visibility  
-- 👁️ **Preview Mode** - Clean view for screenshots
-- 🔄 **Real-time Updates** - See changes instantly
-- 📤 **Export Designs** - Download as JSON
+- 👁️‍🗨️ **Hide/Show Toggles** - Right next to each field
+- 🔄 **Field Swapping** - Click swap mode, then click two fields  
+- 📂 **Hidden Fields Panel** - Toggle to see and restore hidden fields
+- 📱 **Original Positions** - Fields maintain exact screenshot positions
+- 📤 **Export Layouts** - Download as JSON
 
 ## 🚀 Live Demo
 
@@ -16,19 +16,18 @@ A visual design tool for creating Salesforce page mockups. Perfect for prototypi
 
 ## 📋 How to Use
 
-1. **Design Mode** (default):
-   - Use sidebar to modify sections and fields
-   - Drag indicators (⋮⋮) show moveable elements
-   - Add/remove sections and fields
+1. **Hide Fields**:
+   - Click 👁️‍🗨️ button next to any field to hide it
+   - Use "Show Hidden" panel to restore fields
 
-2. **Preview Mode**:
-   - Toggle "👁️ Preview Mode" checkbox
-   - Clean Salesforce-style layout
-   - Perfect for screenshots and demos
+2. **Swap Field Positions**:
+   - Click "🔄 Swap Mode" button
+   - Click first field, then second field to swap
+   - Exit swap mode when done
 
 3. **Export**:
-   - Save designs as JSON files
-   - Share configurations with team
+   - Download your layout as JSON
+   - Share with team or save configurations
 
 ## 🎯 Pre-loaded Example
 
